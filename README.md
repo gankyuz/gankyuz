@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+<img align="center" alt="" src="./src/header.gif">
 
 #
 <p align="center">Estudante de Ciência da Computação, com interesse atual na área de dados, atuando principalmente com Python e suas bibliotecas. Possuo experiências acadêmicas em projetos que envolvem análise e manipulação de dados, aplicando fundamentos computacionais de forma prática. Sou uma pessoa proativa, dedicada e em constante aprimoramento técnico, com foco no desenvolvimento de soluções orientadas a dados.
